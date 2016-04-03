@@ -1,6 +1,4 @@
-# PublishEvent
-
-Let’s create a sample event system project in web 8.
+#Let’s create a sample event system project in web 8.
 
 Tool Used:  Visual Studio 2013
 1st:
