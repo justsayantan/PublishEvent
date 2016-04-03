@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\AddFieldEvent\AddFieldEvent\obj\Debug\AddFieldEvent.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\AddFieldEvent\AddFieldEvent\bin\Debug\AddFieldEvent.dll
+c:\users\administrator\documents\visual studio 2013\Projects\AddFieldEvent\AddFieldEvent\bin\Debug\AddFieldEvent.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\AddFieldEvent\AddFieldEvent\obj\Debug\AddFieldEvent.dll
+c:\users\administrator\documents\visual studio 2013\Projects\AddFieldEvent\AddFieldEvent\obj\Debug\AddFieldEvent.pdb
